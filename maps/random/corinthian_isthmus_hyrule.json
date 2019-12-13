@@ -1,0 +1,9 @@
+{
+	"settings" : {
+		"Name" : "Corinthian Isthmus",
+		"Script" : "corinthian_isthmus_hyrule.js",
+		"Description" : "Two land masses connected by a narrow spit of land, called an 'Isthmus'.",
+		"CircularMap" : true,
+		"Preview" : "corinthian_isthmus.png"
+	}
+}
