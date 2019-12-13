@@ -179,7 +179,7 @@ function placePlayerBase(playerBaseArgs)
 
 function defaultPlayerBaseRadius()
 {
-	return scaleByMapSize(45, 65);
+	return scaleByMapSize(55, 75);
 }
 
 /**
